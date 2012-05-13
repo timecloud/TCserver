@@ -1,4 +1,9 @@
-Congratulations, you've successfully created a SparkleShare repository!
+v2
+
+
+
+
+ions, you've successfully created a SparkleShare repository!
 
 Any files you add or change in this folder will be automatically synced to 
 ssh://git@github.com/timecloud/TCserver and everyone connected to it.
